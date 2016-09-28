@@ -1,0 +1,11 @@
+platform :ios, '8.0'
+
+target 'idk' do
+
+  # Pods for idk
+
+  pod 'Firebase/Core'
+  pod 'Firebase/Database'
+  pod 'Firebase/Auth'
+
+end
